@@ -1,3 +1,5 @@
+### 6/30/2023 THIS IS NOT A COMPLETED SCRIPT.
+
 # Put your SentinelOne Token here
 sentinelToken = "YOUR S1 TOKEN"
 
